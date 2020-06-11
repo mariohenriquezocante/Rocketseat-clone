@@ -1,0 +1,100 @@
+section#contato {
+    padding: 10px 0px;
+    background: #7159c1;
+}
+
+section#contato .content {
+    display: flex;
+    justify-content: space-between;
+}
+
+section#contato .content .container {
+    display: flex;
+    align-items: center;
+}
+
+section#contato .content .container .contato {
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+section#contato .content .container .contato h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffff;
+}
+
+section#contato .content .container .contato .input_email {
+    background: #ffff;
+    display: flex;
+    justify-content: space-between;
+    height: 48px;
+    margin-top: 15px;
+    padding: 0px 20px;
+    border-radius: 4px;
+}
+
+section#contato .content .container .contato .input_email input {
+    border: 0px;
+}
+
+section#contato .content .container .contato p {
+    font-size: 15px;
+    margin-top: 2px;
+    color: #d7d0ed;
+}
+
+@media only screen and (max-width: 850px) {
+    section#contato .content .side {
+        display: none;
+    }
+
+    section#contato .content {
+        justify-content: center;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    section#contato .content .container .yoda {
+        display: none;
+    }
+
+    section#contato .content .container .contato {
+        text-align: center;
+    }
+}
+
+footer div.informacoes {
+    padding: 30px 0px;
+}
+
+footer div.informacoes .content {
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    color: #4b4b4b;
+}
+
+footer div.informacoes .content p {
+    color: #4b4b4b;
+}
+
+footer div.informacoes .content ul {
+    list-style: none;
+    display: flex;
+}
+
+footer div.informacoes .content ul li {
+    margin-right: 12px;
+}
+
+@media only screen and (max-width: 1030px) {
+    footer div.informacoes .content ul {
+        display: none;
+    }
+
+    footer div.informacoes .content {
+        justify-content: center;
+    }
+}

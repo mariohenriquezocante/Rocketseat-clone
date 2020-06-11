@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.content {
+    max-width: 1070px;
+    padding: 0px 30px;
+    margin: 0px auto;
+}
+
+.separator {
+    height: 40px;
+    width: 1px;
+    background: rgba(255, 255, 255, 0.2);
+    margin-left: 20px;
+    margin-right: 10px;
+}
