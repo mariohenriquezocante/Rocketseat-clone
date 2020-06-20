@@ -19,19 +19,19 @@
 
 
 # Índice
-- [Sobre o projeto](##-💡Sobre-o-projeto)
-- [Tecnologias utilizadas](##-🚀Tecnologias-utilizadas)
-- [Ferramentas utilizadas](##-🔨Ferramentas-utilizadas)
-- [Como executar o projeto](##-🏁Como-executar-o-projeto)
+- [Sobre o projeto](#-💡-sobre-o-projeto)
+- [Tecnologias utilizadas](#-🚀-tecnologias-utilizadas)
+- [Ferramentas utilizadas](#-🔨-ferramentas-utilizadas)
+- [Como executar o projeto](#-🏁-como-executar-o-projeto)
 
 
-## 💡Sobre o projeto
+## 💡 Sobre o projeto
 
 O projeto é a reconstrução da **HomePage** da **Rocketseat**, utilizando HTML e CSS com responsividade. O intuito de realizar esse projeto foi de aprimorar e adiquirir novos conhecimentos!
 
 ---
 
-## 🚀Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 
 O projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -40,13 +40,13 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-## 🔨Ferramentas utilizadas
+## 🔨 Ferramentas utilizadas
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
 ---
 
-## 🏁Como executar o projeto
+## 🏁 Como executar o projeto
 
 Para executar esse projeto em sua máquina, primeiro de o clone no repositório:
 
