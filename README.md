@@ -18,13 +18,6 @@
 </h3>
 
 
-# Índice
-- [Sobre o projeto](#-💡-sobre-o-projeto)
-- [Tecnologias utilizadas](#-🚀-tecnologias-utilizadas)
-- [Ferramentas utilizadas](#-🔨-ferramentas-utilizadas)
-- [Como executar o projeto](#-🏁-como-executar-o-projeto)
-
-
 ## 💡 Sobre o projeto
 
 O projeto é a reconstrução da **HomePage** da **Rocketseat**, utilizando HTML e CSS com responsividade. O intuito de realizar esse projeto foi de aprimorar e adiquirir novos conhecimentos!
