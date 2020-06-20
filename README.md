@@ -19,10 +19,10 @@
 
 
 # Índice
-- [Sobre o projeto](#-Sobre-o-projeto)
-- [Tecnologias utilizadas](#-Tecnologias-utilizadas)
-- [Ferramentas utilizadas](#-Ferramentas-utilizadas)
-- [Como executar o projeto](#-Como-executar-o-projeto)
+- [Sobre o projeto](#-💡Sobre-o-projeto)
+- [Tecnologias utilizadas](#-🚀Tecnologias-utilizadas)
+- [Ferramentas utilizadas](#-🔨Ferramentas-utilizadas)
+- [Como executar o projeto](#-🏁Como-executar-o-projeto)
 
 
 ## 💡Sobre o projeto
